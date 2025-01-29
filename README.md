@@ -2,7 +2,6 @@
 
 
 ## Completed Bond Conversations
-Progress: [////----------------] 16%
 |               |   C   |   B   |   A   |               |   C   |   B   |   A   |
 |---------------|-------|-------|-------|---------------|-------|-------|-------|
 | Alear         |&check;|&check;|&check;| Vander        |&check;|&check;|&check;|
