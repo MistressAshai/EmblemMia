@@ -21,7 +21,7 @@
 | Rosado        |       |       |       | Goldmary      |       |       |       |
 | Lindon        |       |       |       | Saphir        |       |       |       |
 | Mauvier       |       |       |       | Veyle         |       |       |       |
-| Jean          |       |       |       | Anna          |&check;|&check;|&check;|
+| Jean          |&check;|&check;|&check;| Anna          |&check;|&check;|&check;|
 | Nel           |       |       |       | Rafal         |       |       |       |
 | Zelestia      |       |       |       | Gregory       |       |       |       |
 | Madeline      |       |       |       |               |       |       |       |
