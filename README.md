@@ -8,7 +8,7 @@
 | Clanne        |&check;|&check;|&check;| Framme        |&check;|&check;|&check;|
 | Alfred        |&check;|&check;|&check;| Etie          |&check;|&check;|&check;|
 | Boucheron     |&check;|&check;|&check;| Celine        |&check;|&check;|&check;|
-| Chloe         |       |       |       | Louis         |&check;|&check;|&check;|
+| Chloe         |&check;|&check;|&check;| Louis         |&check;|&check;|&check;|
 | Yunaka        |       |       |       | Alcryst       |       |       |       |
 | Citrinne      |       |       |       | Lapis         |       |       |       |
 | Diamant       |       |       |       | Amber         |       |       |       |
