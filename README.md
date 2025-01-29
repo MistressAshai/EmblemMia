@@ -8,7 +8,7 @@ Progress: [////----------------] 16%
 | Alear         |&check;|&check;|&check;| Vander        |&check;|&check;|&check;|
 | Clanne        |&check;|&check;|&check;| Framme        |&check;|&check;|&check;|
 | Alfred        |&check;|&check;|&check;| Etie          |&check;|&check;|&check;|
-| Boucheron     |&check;|&check;|&check;| Celine        |       |       |       |
+| Boucheron     |&check;|&check;|&check;| Celine        |&check;|&check;|&check;|
 | Chloe         |       |       |       | Louis         |       |       |       |
 | Yunaka        |       |       |       | Alcryst       |       |       |       |
 | Citrinne      |       |       |       | Lapis         |       |       |       |
