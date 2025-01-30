@@ -10,7 +10,7 @@
 | Boucheron     |&check;|&check;|&check;| Celine        |&check;|&check;|&check;|
 | Chloe         |&check;|&check;|&check;| Louis         |&check;|&check;|&check;|
 | Yunaka        |&check;|&check;|&check;| Alcryst       |&check;|&check;|&check;|
-| Citrinne      |       |       |       | Lapis         |       |       |       |
+| Citrinne      |       |       |       | Lapis         |&check;|&check;|&check;|
 | Diamant       |&check;|&check;|&check;| Amber         |&check;|&check;|&check;|
 | Jade          |&check;|&check;|&check;| Ivy           |       |       |       |
 | Kagetsu       |       |       |       | Zelkov        |       |       |       |
