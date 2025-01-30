@@ -11,7 +11,7 @@
 | Chloe         |&check;|&check;|&check;| Louis         |&check;|&check;|&check;|
 | Yunaka        |&check;|&check;|&check;| Alcryst       |       |       |       |
 | Citrinne      |       |       |       | Lapis         |       |       |       |
-| Diamant       |       |       |       | Amber         |       |       |       |
+| Diamant       |&check;|&check;|&check;| Amber         |       |       |       |
 | Jade          |       |       |       | Ivy           |       |       |       |
 | Kagetsu       |       |       |       | Zelkov        |       |       |       |
 | Fogado        |       |       |       | Pandreo       |       |       |       |
