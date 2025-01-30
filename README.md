@@ -9,7 +9,7 @@
 | Alfred        |&check;|&check;|&check;| Etie          |&check;|&check;|&check;|
 | Boucheron     |&check;|&check;|&check;| Celine        |&check;|&check;|&check;|
 | Chloe         |&check;|&check;|&check;| Louis         |&check;|&check;|&check;|
-| Yunaka        |       |       |       | Alcryst       |       |       |       |
+| Yunaka        |&check;|&check;|&check;| Alcryst       |       |       |       |
 | Citrinne      |       |       |       | Lapis         |       |       |       |
 | Diamant       |       |       |       | Amber         |       |       |       |
 | Jade          |       |       |       | Ivy           |       |       |       |
