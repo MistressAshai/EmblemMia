@@ -2,7 +2,7 @@
 
 
 ## Completed Bond Conversations
-57‬ of 123
+60‬ of 123
 |               |   C   |   B   |   A   |               |   C   |   B   |   A   |
 |---------------|-------|-------|-------|---------------|-------|-------|-------|
 | Alear         |&check;|&check;|&check;| Vander        |&check;|&check;|&check;|
