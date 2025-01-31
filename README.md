@@ -13,7 +13,7 @@
 | Yunaka        |&check;|&check;|&check;| Alcryst       |&check;|&check;|&check;|
 | Citrinne      |&check;|&check;|&check;| Lapis         |&check;|&check;|&check;|
 | Diamant       |&check;|&check;|&check;| Amber         |&check;|&check;|&check;|
-| Jade          |&check;|&check;|&check;| Ivy           |       |       |       |
+| Jade          |&check;|&check;|&check;| Ivy           |&check;|&check;|&check;|
 | Kagetsu       |       |       |       | Zelkov        |       |       |       |
 | Fogado        |       |       |       | Pandreo       |       |       |       |
 | Bunet         |       |       |       | Timerra       |       |       |       |
